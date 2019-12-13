@@ -1,0 +1,17 @@
+c:\users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\NorthwindApp.exe.config
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.csprojResolveAssemblyReference.cache
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.Form1.resources
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.Properties.Resources.resources
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.csproj.GenerateResource.Cache
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\NorthwindApp.exe
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\NorthwindApp.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\DAL.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\Model.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\DAL.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\Model.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.exe
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\obj\Debug\NorthwindApp.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\BussinesService.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\BussinesService.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\InfrastucturedServices.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\NorthwindApp\bin\Debug\InfrastucturedServices.pdb

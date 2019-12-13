@@ -1,0 +1,5 @@
+C:\Users\milos.boskovic\Documents\Visual Studio 2015\Projects\NorthwindApp\InfrastucturedServices\bin\Debug\InfrastucturedServices.dll
+C:\Users\milos.boskovic\Documents\Visual Studio 2015\Projects\NorthwindApp\InfrastucturedServices\bin\Debug\InfrastucturedServices.pdb
+C:\Users\milos.boskovic\Documents\Visual Studio 2015\Projects\NorthwindApp\InfrastucturedServices\obj\Debug\InfrastucturedServices.dll
+C:\Users\milos.boskovic\Documents\Visual Studio 2015\Projects\NorthwindApp\InfrastucturedServices\obj\Debug\InfrastucturedServices.pdb
+C:\Users\milos.boskovic\Documents\Visual Studio 2015\Projects\NorthwindApp\InfrastucturedServices\obj\Debug\InfrastucturedServices.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+﻿.aa {
+   border-collapse:separate;
+    border:solid black 1px;
+    border-radius:6px;
+}
+
+th{
+    background-color:antiquewhite;
+}

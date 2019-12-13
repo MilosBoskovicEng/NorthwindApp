@@ -1,0 +1,13 @@
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\RepositoryTest.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\RepositoryTest.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\BussinesService.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\Model.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\DAL.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\InfrastucturedServices.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\BussinesService.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\Model.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\DAL.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\bin\Debug\InfrastucturedServices.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\obj\Debug\RepositoryTest.csprojResolveAssemblyReference.cache
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\obj\Debug\RepositoryTest.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\RepositoryTest\obj\Debug\RepositoryTest.pdb

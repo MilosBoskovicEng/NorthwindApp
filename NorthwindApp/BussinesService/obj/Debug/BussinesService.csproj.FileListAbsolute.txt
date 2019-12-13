@@ -1,0 +1,11 @@
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\bin\Debug\BussinesService.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\bin\Debug\BussinesService.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\bin\Debug\DAL.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\bin\Debug\Model.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\bin\Debug\DAL.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\bin\Debug\Model.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\obj\Debug\BussinesService.csprojResolveAssemblyReference.cache
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\obj\Debug\BussinesService.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\obj\Debug\BussinesService.pdb
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\bin\Debug\InfrastucturedServices.dll
+C:\Users\milos.boskovic\documents\visual studio 2015\Projects\NorthwindApp\BussinesService\bin\Debug\InfrastucturedServices.pdb
